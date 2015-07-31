@@ -1,0 +1,13 @@
+erl_crash.dump
+.rebar
+!rel/reltool.config
+
+/deps
+/ebin
+/apps
+/rel
+
+/priv/vendor/assets/components
+
+/node_modules
+/venv

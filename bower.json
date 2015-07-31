@@ -1,0 +1,13 @@
+{
+  "name": "Canvas",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "priv/vendor/assets/components"
+  ],
+  "dependencies": {
+    "angular": "*",
+    "font-awesome": "~> 4.3"
+  }
+}

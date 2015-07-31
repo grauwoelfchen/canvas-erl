@@ -1,0 +1,13 @@
+{application, canvas,
+ [
+  {description, "Grauwoelfchen's Canvas"},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  cowboy
+                 ]},
+  {mod, {canvas_app, []}},
+  {env, []}
+ ]}.
